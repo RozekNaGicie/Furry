@@ -1,12 +1,9 @@
 
 # Furry Game
 
-## Przygotowanie
 
 
 
-
-## Na czym polega warsztat?
 
 ### Gra "Furry zbiera monety"
 
